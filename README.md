@@ -1,4 +1,8 @@
+<div align="center">
+        
 # 🎬 Movie_Recommender_System_Cineora
+
+</div>
 
 <div align="center">
 
